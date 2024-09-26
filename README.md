@@ -26,6 +26,8 @@ Relatório 1 - Gráficos
 
 [Gráfico 10 - Candidatos à Vereador/a em São Paulo - Raça - Interações](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio1/RACA_INTER.html)
 
+
+
 Relatório 2 - Gráficos
 
 [Gráfico 1 - SP - Evolução Seguidores](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/SP1.html)
@@ -36,9 +38,7 @@ Relatório 2 - Gráficos
 
 [Gráfico 4 - SP - Crescimento de Seguidores do perfil pablomarcalporsp no TikTok](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/SP4.html)
 
-[Gráfico 5 - SP -  Interações por Impressão: Marçal X Perfis de Cortes]
-(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/SP5_6.html)
-
+[Gráfico 5 - SP -  Interações por Impressão: Marçal X Perfis de Cortes](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/SP5_6.html)
 
 [Gráfico 6 - Influencers - Interações](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/influencers_int.html)
 
