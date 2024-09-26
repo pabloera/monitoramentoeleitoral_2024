@@ -46,9 +46,9 @@ Relatório 2 - Gráficos
 
 [Gráfico 8 - Segurança Pública - Interações](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/SEGURANCA_INT_Bargraph.html)
 
-[Gráfico 9 - Raça - Seguidores](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/RACA_BAR.html)
+[Gráfico 9 - Raça - Seguidores](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/RACA_seg.html)
 
-[Gráfico 10 - Raça - Interações](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/RACA_INTER_BAR_Graph.html)
+[Gráfico 10 - Raça - Interações](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/RACA_inter.html)
 
 [Gráfico 11 - Agencias de Fact-Checking - Seguidores](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/FC_seguidores.html)
 
