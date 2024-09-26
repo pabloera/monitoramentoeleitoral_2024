@@ -28,28 +28,33 @@ Relatório 1 - Gráficos
 
 Relatório 2 - Gráficos
 
+[Gráfico 1 - SP - Evolução Seguidores]
+
+[Gráfico 2 - SP - Interações Geral]
+()
+
+[Gráfico 3 - SP - Interações (sem Marçal)]
+()
+
+[Gráfico 4 - SP - Crescimento de Seguidores do perfil pablomarcalporsp no TikTok]
+()
+
+[Gráfico 5 - SP -  Interações por Impressão: Marçal X Perfis de Cortes]
+()
 
 
-[Gráfico K - Influencers - Interações]
-(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/influencers_int.html)
+[Gráfico 6 - Influencers - Interações](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/influencers_int.html)
 
-[Gráfico L - Jovens - Interações]
-(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/JOVENS_INT_BarGraph.html)
+[Gráfico 7 - Jovens - Interações](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/JOVENS_INT_BarGraph.html)
 
-[Gráfico J - Segurança Pública - Interações]
-(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/SEGURANCA_INT_Bargraph.html)
+[Gráfico 8 - Segurança Pública - Interações](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/SEGURANCA_INT_Bargraph.html)
 
-[Gráfico F - Raça - Seguidores]
-(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/RACA_BAR.html)
+[Gráfico 9 - Raça - Seguidores](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/RACA_BAR.html)
 
-[Gráfico F - Raça - Interações]
-(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/RACA_INTER_BAR_Graph.html)
+[Gráfico 10 - Raça - Interações](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/RACA_INTER_BAR_Graph.html)
 
-[Gráfico X - Agencias de Fact-Checking - Seguidores]
-(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/FC_seguidores.html)
+[Gráfico 11 - Agencias de Fact-Checking - Seguidores](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/FC_seguidores.html)
 
-[Gráfico X - Agencias de Fact-Checking - Interações]
-(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/FC_interac%CC%A7o%CC%83es.html)
+[Gráfico 12 - Agencias de Fact-Checking - Interações](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/FC_interac%CC%A7o%CC%83es.html)
 
-[Gráfico Y - Mídias jornalísticas - Interações]
-(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/Media_INTER_BAR_Graph.html)
+[Gráfico 13 - Mídias jornalísticas - Interações](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/Media_INTER_BAR_Graph.html)
