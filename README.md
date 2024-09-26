@@ -34,7 +34,7 @@ Relatório 2 - Gráficos
 ()
 
 [Gráfico 3 - SP - Interações (sem Marçal)]
-()
+(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/SP3.html)
 
 [Gráfico 4 - SP - Crescimento de Seguidores do perfil pablomarcalporsp no TikTok]
 ()
