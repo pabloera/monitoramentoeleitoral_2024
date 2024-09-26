@@ -40,7 +40,7 @@ Relatório 2 - Gráficos
 ()
 
 [Gráfico 5 - SP -  Interações por Impressão: Marçal X Perfis de Cortes]
-()
+(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/SP5_6.html)
 
 
 [Gráfico 6 - Influencers - Interações](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/influencers_int.html)
