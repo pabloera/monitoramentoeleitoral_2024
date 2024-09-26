@@ -26,3 +26,30 @@ Relatório 1 - Gráficos
 
 [Gráfico 10 - Candidatos à Vereador/a em São Paulo - Raça - Interações](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio1/RACA_INTER.html)
 
+Relatório 2 - Gráficos
+
+
+
+[Gráfico K - Influencers - Interações]
+(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/influencers_int.html)
+
+[Gráfico L - Jovens - Interações]
+(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/JOVENS_INT_BarGraph.html)
+
+[Gráfico J - Segurança Pública - Interações]
+(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/SEGURANCA_INT_Bargraph.html)
+
+[Gráfico F - Raça - Seguidores]
+(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/RACA_BAR.html)
+
+[Gráfico F - Raça - Interações]
+(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/RACA_INTER_BAR_Graph.html)
+
+[Gráfico X - Agencias de Fact-Checking - Seguidores]
+(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/FC_seguidores.html)
+
+[Gráfico X - Agencias de Fact-Checking - Interações]
+(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/FC_interac%CC%A7o%CC%83es.html)
+
+[Gráfico Y - Mídias jornalísticas - Interações]
+(https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/Media_INTER_BAR_Graph.html)
