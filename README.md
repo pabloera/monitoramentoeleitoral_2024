@@ -55,3 +55,15 @@ Relatório 2 - Gráficos
 [Gráfico 12 - Agencias de Fact-Checking - Interações](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/FC_interac%CC%A7o%CC%83es.html)
 
 [Gráfico 13 - Mídias jornalísticas - Interações](https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio2/Media_INTER_BAR_Graph.html)
+
+Relatório 3 - Gráficos
+
+https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio3/interacoes_candidatos.html
+https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio3/int_postXmidia.html
+https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio3/JOVENS_INT_BarGraph.html
+https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio3/SEGURANCA_INT_Bargraph.html
+https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio3/RACA_INTER_BAR_Graph.html
+https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio3/factchecking_interacao_tabela_plotly.html
+https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio3/midia_RCC_tab_5+TikTok.html
+https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio3/midia_RCC_tab_5+Instagram.html
+https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio3/debate_keyword.html
