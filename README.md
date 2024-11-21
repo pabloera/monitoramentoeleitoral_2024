@@ -75,3 +75,7 @@ https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio4/bar_eng_SP.htm
 
 https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio4/quantidade_postagens_por_tipo.html
 
+https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio4/top20_table.html
+
+
+
