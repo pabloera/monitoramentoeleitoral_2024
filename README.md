@@ -72,3 +72,6 @@ https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio3/debate_keyword
 Relatório 4 - Gráficos
 
 https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio4/bar_eng_SP.html
+
+https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio4/quantidade_postagens_por_tipo.html
+
