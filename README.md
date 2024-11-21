@@ -67,3 +67,8 @@ https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio3/factchecking_i
 https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio3/midia_RCC_tab_5+TikTok.html
 https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio3/midia_RCC_tab_5+Instagram.html
 https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio3/debate_keyword.html
+
+
+Relatório 4 - Gráficos
+
+https://pabloera.github.io/monitoramentoeleitoral_2024/relatorio4/bar_eng_SP.html
